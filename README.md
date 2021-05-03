@@ -1,1 +1,1 @@
-# SAL-game
+# Snakes and Ladders game
