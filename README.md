@@ -1,6 +1,6 @@
 # Snakes and Ladders game
 
-This is my work for unit Object Oriented Programming. The app is GUI Snakes and Ladders game that allow user to play with computer. 
+This is my works for unit Object Oriented Programming. The app is GUI Snakes and Ladders game that allow user to play with computer. 
 
 # Requirements
 - Decide first player by rolling the die and who get bigger will play first.
